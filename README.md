@@ -1,6 +1,6 @@
 
 # 👋 Hi, I’m @imabireal<br><br>
-## 👀 **Interests**<br>- Data Science & Analytics  <br>- Machine Learning & Statistical Modeling  <br>- Data Visualization & Storytelling  <br>- Applied AI and real-world problem solving  <br><br>🌱 **Currently Learning**<br>- Advanced machine learning techniques  <br>- Model optimization and evaluation  <br>- Scalable data pipelines and best practices  <br><br>💞️ **Looking to Collaborate On**<br>- Data science and machine learning projects  <br>- Research-oriented or applied analytics work  <br>- Open-source projects involving data, ML, or AI  <br><br>
+### 👀 **Interests**<br>- Data Science & Analytics  <br>- Machine Learning & Statistical Modeling  <br>- Data Visualization & Storytelling  <br>- Applied AI and real-world problem solving  <br><br>🌱 **Currently Learning**<br>- Advanced machine learning techniques  <br>- Model optimization and evaluation  <br>- Scalable data pipelines and best practices  <br><br>💞️ **Looking to Collaborate On**<br>- Data science and machine learning projects  <br>- Research-oriented or applied analytics work  <br>- Open-source projects involving data, ML, or AI  <br><br>
 
 
 ## 🌐 Socials:
